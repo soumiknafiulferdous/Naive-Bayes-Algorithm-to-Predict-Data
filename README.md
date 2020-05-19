@@ -1,0 +1,1 @@
+# Naive-Bayes-Algorithm-to-Predict-Data
